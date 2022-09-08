@@ -1,5 +1,5 @@
 # CS246-Final-Project
-This repository consists the final executable file of the chess project that I built as a part of the final project for my course CS 246: Object Oriented Software Development. To run the above executable, run the following steps:
+This repository contains the final executable file of the chess project that I built as a part of the final project for my course CS 246: Object Oriented Software Development. To run the above executable, execute the following steps:
 
 1. Download the repository:
 ```bash
