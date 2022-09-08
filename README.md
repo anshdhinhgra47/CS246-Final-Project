@@ -3,15 +3,20 @@ This repository consists the final executable file of the chess project that I b
 
 1. Download the repository:
 ```bash
-git
+git clone https://github.com/anshdhinhgra47/CS246-Final-Project.git
 ```
 
-2. Change the permissions of the executable file:
+2. Head inside the CS246-Final-Project directory:
 ```bash
-chmod +x chessCode
+cd CS246-Final-Project
 ```
 
-3. Run the following:
+3. Change the permissions of the executable file:
 ```bash
-./chessCode
+chmod +x chess
+```
+
+4. Run the following:
+```bash
+./chess
 ```
